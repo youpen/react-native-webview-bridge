@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:alinz/react-native-webview-bridge.git"
+    "url": "https://github.com/youpen/react-native-webview-bridge.git"
   },
   "keywords": [
     "react-native",
@@ -20,15 +20,12 @@
     "ios",
     "webview-bridge"
   ],
-  "author": "Ali Najafizadeh",
+  "author": "youpen",
   "contributors": [
     "Hunter Medney"
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/alinz/react-native-webview-bridge/issues"
-  },
-  "homepage": "https://github.com/alinz/react-native-webview-bridge",
+  "homepage": "https://github.com/youpen/react-native-webview-bridge",
   "dependencies": {
     "invariant": "2.2.0",
     "keymirror": "0.1.1"
