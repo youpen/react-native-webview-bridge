@@ -21,9 +21,6 @@
     "webview-bridge"
   ],
   "author": "youpen",
-  "contributors": [
-    "Hunter Medney"
-  ],
   "license": "MIT",
   "homepage": "https://github.com/youpen/react-native-webview-bridge",
   "dependencies": {
